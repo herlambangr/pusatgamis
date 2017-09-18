@@ -6819,12 +6819,7 @@ input[type=range]:focus::-ms-fill-upper {
   height: calc(100% + 60px);
   height: -moz-calc(100%);
   padding-bottom: 60px;
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffaf4b+0,e30085+100 */
-background: #fcfafa; /* Old browsers */
-background: -moz-linear-gradient(-45deg, #fcfafa 0%, #f3f501 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(-45deg, #fcfafa 0%,#f3f501 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(135deg, #fcfafa 0%,#f3f501 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfafa', endColorstr='#f3f501',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  background-color: #fff;
   z-index: 999;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
